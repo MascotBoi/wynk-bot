@@ -1,1 +1,1 @@
-Worker: node run bot
+Worker: npm run bot
